@@ -1,0 +1,8 @@
+<resources>
+    <string name="ckb_tv">TV</string>
+    <string name="ckb_geladeira">Geladeira</string>
+    <string name="ckb_microondas">Microondas</string>
+    <string name="btn_OK">OK</string>
+    <string name="edt_hint">insira seu nome</string>
+    <string name="on_off">Switch</string>
+</resources>
